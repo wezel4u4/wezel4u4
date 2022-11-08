@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wesley
 - 👀 I’m interested in Bioinformatics, so extracting meaningful information out of gigabites of data.
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C, Bash, C#
 - 💞️ I’m looking to collaborate on all sorts.
 - 📫 How to reach me?
 
